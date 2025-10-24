@@ -37,7 +37,7 @@ export default function Home() {
           />
         </body>
         <footer>
-          <p>&#0169 2024</p>
+          <p>Copyright 2024</p>
         </footer>
       </main>
     </>
