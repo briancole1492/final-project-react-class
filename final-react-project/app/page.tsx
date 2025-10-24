@@ -7,7 +7,7 @@ export default function Home() {
         <header>
           <ul className="navigation">
             <li className="navigation-option">
-              <a href="index.html">Home</a>
+              <a href="/contact">Home</a>
             </li>
             <li className="navigation-option">
               <a href="about.html">About</a>
